@@ -79,8 +79,6 @@ function get_server_boot_time{
 function mailbox_permissions{
     ##########################
     # Bulk permission script #
-    # @ Jiri Ondracek        #
-    # @ Jakub Kopecky        #
     ##########################
     ###  Powershell setup  ###
     ##########################
